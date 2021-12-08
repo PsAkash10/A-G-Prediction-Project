@@ -1,0 +1,14 @@
+name: Age Classification CNN
+caffemodel: age_net.caffemodel
+
+caffemodel_url: https://github.com/GilLevi/AgeGenderDeepLearning/raw/master/models/age_net.caffemodel
+
+name: Gender Classification CNN
+caffemodel: gender_net.caffemodel
+
+caffemodel_url: https://github.com/GilLevi/AgeGenderDeepLearning/raw/master/models/gender_net.caffemodel
+
+--
+
+mean_file_proto: https://github.com/GilLevi/AgeGenderDeepLearning/raw/master/models/mean.binaryproto
+
